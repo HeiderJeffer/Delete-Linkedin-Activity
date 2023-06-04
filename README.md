@@ -1,5 +1,11 @@
 # Delete Linkedin Activity
 
+
+ <body>
+<img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/Delete-Linkedin-Activity/" alt = "Visitors-Counter"/>
+</body>
+
+
 ## What
 
 Scripts for automated deletion of Linkedin activity.
